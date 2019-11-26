@@ -4,7 +4,7 @@ import random
 import time
 import os
 
-os.environ['SDL_VIDEO_WINDOW_POS'] = "%d,%d" % (900,100)
+os.environ['SDL_VIDEO_WINDOW_POS'] = "%d,%d" % (50,50)
 genFPS = 1500
 wScreen = 600
 hScreen = 600
@@ -15,10 +15,10 @@ genScale = 0.5
 tileSize = 12
 genX = []
 genY = []
-Xshift = 1.2
-Yshift = 1.3
+#Xshift = 1.2
+#Yshift = 1.3
 
-dirt = pygame.image.load('green.png')
+dirt = pygame.image.load('turf.png')
 liquid = pygame.image.load('water.png')
 sand = pygame.image.load('beach.png')
 tree = pygame.image.load('leaves.png')
@@ -36,6 +36,7 @@ def chk():
 	global t
 	if t >= 1:
 		o = random.uniform(o, genX[t - 1])
+
 
 	if chunkGen.y >= tileSize:
 		o = random.uniform(o,genY[t - 80])
@@ -84,24 +85,13 @@ class beach(object):
 	def draw(self, win):
 	    win.blit(sand,(chunkGen.x, chunkGen.y))
 
-#class player(object):
-	#def __init__ (self, x, y, vel):
-		#self.x = x
-		#self.y = y
-		#self.vel = vel
-	#def draw(self, win):
-		#win.blit(sprPlayer, (self.x, self.y))
-	#def clear(self, win):
-		#win.blit(nothing, (self.x, self.y))
-
-#man = player(32,32,5)
 sea = water(0, 0)
 land = grass(0, 0)
 beach = beach(0, 0)
 chunkGen = chunkGen(-tileSize, 0)
 
 t = -1
-yeet = (random.random())
+yeet = ("yeet")
 random.seed(yeet)
 run = False
 generate = False
@@ -149,12 +139,34 @@ def stats():
 		print("[##########] CHUNK GENERATION COMPLETE")
 
 
+x = 0 
+y = 0
 
 def noise():
 	global genX
 	global genY
-	genX.append(random.uniform(0.0, 1.0))
-	genY.append(random.uniform(0.0, 1.0))
+	global x 
+	global y
+
+	x+= 1 
+	y+= 1
+	parameters = [random.random(),4,5]
+	octave = 2
+
+	for n in range(octave):
+		parameters.append({
+			'offset': float(random.random() * 2 * math.pi),
+			'frequency': 2**n,
+			'amplitude': float(parameters[2])/float(n+1),
+	})
+
+	for p in parameters:
+		preGen = math.sin(x * 2 * p['frequency'] * math.pi * octave)
+		output += math.sin(float(y) * p['frequency'] * float(2) * float(math.pi) + float(offset) * float(p['amplitude']))
+
+
+	genX.append(preGen, output)
+	genY.append(preGen, output)
 
 
 while preload:
@@ -178,16 +190,16 @@ while generate:
 	j = genY[t]
 	if o and j <= 0.2:
 		sea.draw(win)
-		o = random.uniform(o, 0.4) * Xshift
-		j = random.uniform(o, 0.4) * Yshift
+		o = random.uniform(o, 0.4) 
+		j = random.uniform(o, 0.4)
 		chk()
 	elif o and j <= 0.4:
 		beach.draw(win)
 		chk()
 	else:
 		land.draw(win)
-		o = random.uniform(0.4, o) * Xshift
-		j = random.uniform(0.4, o) * Yshift
+		o = random.uniform(0.4, o)
+		j = random.uniform(0.4, o) 
 		chk()
 	chunks += 1
 	t += 1
@@ -200,29 +212,4 @@ while generate:
 	stats()
 
 
-## 	pygame.event.get()
-## 	pygame.display.update
-## 	clock.tick(60)
- ##	keys = pygame.key.get_pressed()
-
-	##for event in pygame.event.get():
-	##	if event.type == pygame.QUIT:
-		##	pygame.quit()
-
-	##            	if keys[pygame.K_LEFT]:
-	  ##          		man.clear(win)
-	    ##        		man.x -= man.vel
-	 ##           	if keys[pygame.K_RIGHT]:
-	 ##           	  	man.clear(win)
-			##	man.x += man.vel
-	      ##      	if keys[pygame.K_DOWN]:
-	      ##      		man.clear(win)
-		  ##  		man.y += man.vel
-	       ##     	if keys[pygame.K_UP]:
-		    ##		man.clear(win)
-		 ##   		man.y -= man.vel
-
-	# man.draw(win)
-
 pygame.quit()
-b

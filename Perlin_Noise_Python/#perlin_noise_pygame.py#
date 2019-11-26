@@ -5,7 +5,7 @@ import time
 import os
 
 os.environ['SDL_VIDEO_WINDOW_POS'] = "%d,%d" % (50,50)
-genFPS = 1000
+genFPS = 1500
 wScreen = 600
 hScreen = 600
 chunks = 0
@@ -18,7 +18,7 @@ genY = []
 Xshift = 1.2
 Yshift = 1.3
 
-dirt = pygame.image.load('dirt.png')
+dirt = pygame.image.load('green.png')
 liquid = pygame.image.load('water.png')
 sand = pygame.image.load('beach.png')
 tree = pygame.image.load('leaves.png')
@@ -103,7 +103,7 @@ beach = beach(0, 0)
 chunkGen = chunkGen(-tileSize, 0)
 
 t = -1
-yeet = input("Seed: ")
+yeet = "lol"
 random.seed(yeet)
 run = False
 generate = False
