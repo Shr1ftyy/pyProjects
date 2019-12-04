@@ -1,0 +1,1073 @@
+[<div class="item-container">
+<!--product image-->
+<a class="item-img" href="https://www.newegg.com/msi-geforce-rtx-2080-ti-rtx-2080-ti-ventus-gp/p/N82E16814137451?Item=N82E16814137451">
+<div class="item-badges">
+</div>
+<img alt="MSI GeForce RTX 2080 Ti DirectX 12 RTX 2080 Ti VENTUS GP 11GB 352-Bit GDDR6 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-137-451-V06.jpg" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="MSI GeForce RTX 2080 Ti DirectX 12 RTX 2080 Ti VENTUS GP 11GB 352-Bit GDDR6 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card">
+</img></a>
+<div class="item-info">
+<!--brand info-->
+<div class="item-branding">
+<a class="item-brand" href="https://www.newegg.com/MSI/BrandStore/ID-1312">
+<img alt="MSI" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1312.gif" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="MSI">
+</img></a>
+<!--rating info-->
+<a class="item-rating" href="https://www.newegg.com/msi-geforce-rtx-2080-ti-rtx-2080-ti-ventus-gp/p/N82E16814137451?Item=N82E16814137451&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo" title="Rating + 5"><i class="rating rating-5"></i><span class="item-rating-num">(1)</span></a>
+</div>
+<!--description info-->
+<a class="item-title" href="https://www.newegg.com/msi-geforce-rtx-2080-ti-rtx-2080-ti-ventus-gp/p/N82E16814137451?Item=N82E16814137451" title="View Details"><i class="icon-premier icon-premier-xsm"></i>MSI GeForce RTX 2080 Ti DirectX 12 RTX 2080 Ti VENTUS GP Video Card</a>
+<!--promption info-->
+<p class="item-promo"><i class="item-promo-icon"></i>Buy GeForce RTX™, Get Call of Duty: Modern Warfare™, limited offer</p>
+<!--feature-->
+<ul class="item-features">
+<li><strong>Max Resolution:</strong> 7680 x 4320</li><li><strong>DisplayPort:</strong> 3 x DisplayPort 1.4</li><li><strong>HDMI:</strong> 1 x HDMI 2.0b</li><li><strong>Card Dimensions (L x H):</strong> 10.55" x 4.41"</li>
+<li><strong>Model #: </strong>RTX2080TIVENTUSGP11G</li>
+<li><strong>Item #: </strong>N82E16814137451</li>
+</ul>
+<div class="item-action">
+<!--price-->
+<ul class="price has-label-membership">
+<li class="price-was">
+</li>
+<li class="price-map">
+</li>
+<li class="price-current">
+<span class="price-current-label">
+<a aria-label="Premier Price Explaination" class="membership-info membership-popup" data-neg-popid="MembershipPopup" href="javascript:void(0);" name="membership" style="display: inline"><span class="membership-icon"></span><span style="display: none">|</span></a>
+</span>$<strong>999</strong><sup>.99</sup> <a class="price-current-num" href="https://www.newegg.com/msi-geforce-rtx-2080-ti-rtx-2080-ti-ventus-gp/p/N82E16814137451?Item=N82E16814137451&amp;buyingoptions=New">(3 Offers)</a>
+<span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+</li>
+<li class="price-save">
+<span class="price-save-endtime price-save-endtime-current"></span>
+<span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+</li>
+<li class="price-note">
+</li>
+<li class="price-ship">
+        Free Shipping
+    </li>
+</ul>
+<!--egg point-->
+<!--financing-->
+<!--button-->
+<div class="item-operate hidden-action-button">
+<div class="item-button-area">
+<button class="btn btn-mini" onclick="Javascript:Biz.ProductList.Item.add('https://www.newegg.com/msi-geforce-rtx-2080-ti-rtx-2080-ti-ventus-gp/p/N82E16814137451?Item=N82E16814137451');" title="View Details" type="button">View Details <i class="fa fa-caret-right"></i>
+</button>
+</div>
+<!--compare-->
+<div class="item-compare-box">
+<label class="form-checkbox">
+<input autocomplete="off" name="CompareItem" neg-itemnumber="14-137-451" type="checkbox" value="CompareItem_14-137-451"/>
+<span class="form-checkbox-title">Compare</span>
+</label>
+</div>
+<script type="text/javascript">
+                            
+                                Biz.Product.CompareConfig2019.compareItems.push("14-137-451");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-137-451";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-137-451-V06.jpg";
+                                itemThumbs.description = "MSI GeForce RTX 2080 Ti DirectX 12 RTX 2080 Ti VENTUS GP Video Card";
+                                itemThumbs.productUrl = "/msi-geforce-rtx-2080-ti-rtx-2080-ti-ventus-gp/p/N82E16814137451?Item=N82E16814137451";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+                            
+                    </script>
+</div>
+<!--ExtendWarranty PopUp-->
+<input class="open-popup" id="ew_N82E16814137451" type="hidden">
+<input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814137451" type="hidden">
+</input></input></div>
+</div>
+<div class="item-stock" id="stock_14-137-451">
+</div>
+</div>, <div class="item-container">
+<!--product image-->
+<a class="item-img" href="https://www.newegg.com/asus-geforce-rtx-2080-ti-rog-strix-rtx2080ti-o11g-gaming/p/N82E16814126263?Item=N82E16814126263">
+<div class="item-badges">
+</div>
+<img alt="ASUS ROG Strix GeForce RTX 2080 Ti DirectX 12 ROG-STRIX-RTX2080TI-O11G-GAMING 11GB 352-Bit GDDR6 PCI Express 3.0 HDCP Ready SLI Support Video Card" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-126-263-V50.jpg" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="ASUS ROG Strix GeForce RTX 2080 Ti DirectX 12 ROG-STRIX-RTX2080TI-O11G-GAMING 11GB 352-Bit GDDR6 PCI Express 3.0 HDCP Ready SLI Support Video Card">
+</img></a>
+<div class="item-info">
+<!--brand info-->
+<div class="item-branding">
+<a class="item-brand" href="https://www.newegg.com/ASUS/BrandStore/ID-1315">
+<img alt="ASUS" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1315.gif" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="ASUS">
+</img></a>
+<!--rating info-->
+<a class="item-rating" href="https://www.newegg.com/asus-geforce-rtx-2080-ti-rog-strix-rtx2080ti-o11g-gaming/p/N82E16814126263?Item=N82E16814126263&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo" title="Rating + 4"><i class="rating rating-4"></i><span class="item-rating-num">(66)</span></a>
+</div>
+<!--description info-->
+<a class="item-title" href="https://www.newegg.com/asus-geforce-rtx-2080-ti-rog-strix-rtx2080ti-o11g-gaming/p/N82E16814126263?Item=N82E16814126263" title="View Details"><i class="icon-premier icon-premier-xsm"></i>ASUS ROG Strix GeForce RTX 2080 Ti DirectX 12 ROG-STRIX-RTX2080TI-O11G-GAMING Video Card</a>
+<!--promption info-->
+<p class="item-promo"><i class="item-promo-icon"></i>+ $40 off w/ promo code 9BFCMPC574, limited offer</p>
+<!--feature-->
+<ul class="item-features">
+<li><strong>Core Clock:</strong> 1350 MHz</li><li><strong>Max Resolution:</strong> 7680 x 4320</li><li><strong>DisplayPort:</strong> 2 x DisplayPort 1.4</li><li><strong>HDMI:</strong> 2 x HDMI 2.0b</li>
+<li><strong>Model #: </strong>ROGSTRIXRTX2080TIO11</li>
+<li><strong>Item #: </strong>N82E16814126263</li>
+</ul>
+<div class="item-action">
+<!--price-->
+<ul class="price has-label-membership">
+<li class="price-was">
+</li>
+<li class="price-map">
+</li>
+<li class="price-current">
+<span class="price-current-label">
+<a aria-label="Premier Price Explaination" class="membership-info membership-popup" data-neg-popid="MembershipPopup" href="javascript:void(0);" name="membership" style="display: inline"><span class="membership-icon"></span><span style="display: none">|</span></a>
+</span>$<strong>1,254</strong><sup>.99</sup> <a class="price-current-num" href="https://www.newegg.com/asus-geforce-rtx-2080-ti-rog-strix-rtx2080ti-o11g-gaming/p/N82E16814126263?Item=N82E16814126263&amp;buyingoptions=New">(5 Offers)</a>
+<span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+</li>
+<li class="price-save">
+<span class="price-save-endtime price-save-endtime-current"></span>
+<span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+</li>
+<li class="price-note">
+</li>
+<li class="price-ship">
+        Free Shipping
+    </li>
+</ul>
+<!--egg point-->
+<!--financing-->
+<!--button-->
+<div class="item-operate hidden-action-button">
+<div class="item-button-area">
+<button class="btn btn-mini" onclick="Javascript:Biz.ProductList.Item.add('https://www.newegg.com/asus-geforce-rtx-2080-ti-rog-strix-rtx2080ti-o11g-gaming/p/N82E16814126263?Item=N82E16814126263');" title="View Details" type="button">View Details <i class="fa fa-caret-right"></i>
+</button>
+</div>
+<!--compare-->
+<div class="item-compare-box">
+<label class="form-checkbox">
+<input autocomplete="off" name="CompareItem" neg-itemnumber="14-126-263" type="checkbox" value="CompareItem_14-126-263"/>
+<span class="form-checkbox-title">Compare</span>
+</label>
+</div>
+<script type="text/javascript">
+                            
+                                Biz.Product.CompareConfig2019.compareItems.push("14-126-263");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-126-263";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-126-263-V50.jpg";
+                                itemThumbs.description = "ASUS ROG Strix GeForce RTX 2080 Ti DirectX 12 ROG-STRIX-RTX2080TI-O11G-GAMING Video Card";
+                                itemThumbs.productUrl = "/asus-geforce-rtx-2080-ti-rog-strix-rtx2080ti-o11g-gaming/p/N82E16814126263?Item=N82E16814126263";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+                            
+                    </script>
+</div>
+<!--ExtendWarranty PopUp-->
+<input class="open-popup" id="ew_N82E16814126263" type="hidden">
+<input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814126263" type="hidden">
+</input></input></div>
+</div>
+<div class="item-stock" id="stock_14-126-263">
+</div>
+</div>, <div class="item-container">
+<!--product image-->
+<a class="item-img" href="https://www.newegg.com/msi-geforce-rtx-2070-super-rtx-2070-super-gaming-x/p/N82E16814137445?Item=N82E16814137445">
+<div class="item-badges">
+</div>
+<img alt="MSI GeForce RTX 2070 SUPER DirectX 12 RTX 2070 Super GAMING X 8GB 256-Bit GDDR6 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-137-445-V21.jpg" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="MSI GeForce RTX 2070 SUPER DirectX 12 RTX 2070 Super GAMING X 8GB 256-Bit GDDR6 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card">
+</img></a>
+<div class="item-info">
+<!--brand info-->
+<div class="item-branding">
+<a class="item-brand" href="https://www.newegg.com/MSI/BrandStore/ID-1312">
+<img alt="MSI" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1312.gif" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="MSI">
+</img></a>
+<!--rating info-->
+<a class="item-rating" href="https://www.newegg.com/msi-geforce-rtx-2070-super-rtx-2070-super-gaming-x/p/N82E16814137445?Item=N82E16814137445&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo" title="Rating + 5"><i class="rating rating-5"></i><span class="item-rating-num">(4)</span></a>
+</div>
+<!--description info-->
+<a class="item-title" href="https://www.newegg.com/msi-geforce-rtx-2070-super-rtx-2070-super-gaming-x/p/N82E16814137445?Item=N82E16814137445" title="View Details"><i class="icon-premier icon-premier-xsm"></i>MSI GeForce RTX 2070 SUPER DirectX 12 RTX 2070 Super GAMING X Video Card</a>
+<!--promption info-->
+<p class="item-promo"><i class="item-promo-icon"></i>+ $30 off w/ promo code 9BFCMPC96, limited offer</p>
+<!--feature-->
+<ul class="item-features">
+<li><strong>Max Resolution:</strong> 7680 x 4320</li><li><strong>DisplayPort:</strong> 3 x DisplayPort 1.4</li><li><strong>HDMI:</strong> 1 x HDMI 2.0b</li><li><strong>Card Dimensions (L x H):</strong> 11.69" x 5.63"</li>
+<li><strong>Model #: </strong>2070 Super GAMING X</li>
+<li><strong>Item #: </strong>N82E16814137445</li>
+</ul>
+<div class="item-action">
+<!--price-->
+<ul class="price has-label-membership">
+<li class="price-was">
+</li>
+<li class="price-map">
+</li>
+<li class="price-current">
+<span class="price-current-label">
+<a aria-label="Premier Price Explaination" class="membership-info membership-popup" data-neg-popid="MembershipPopup" href="javascript:void(0);" name="membership" style="display: inline"><span class="membership-icon"></span><span style="display: none">|</span></a>
+</span>$<strong>549</strong><sup>.99</sup> <a class="price-current-num" href="https://www.newegg.com/msi-geforce-rtx-2070-super-rtx-2070-super-gaming-x/p/N82E16814137445?Item=N82E16814137445&amp;buyingoptions=New">(5 Offers)</a>
+<span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+</li>
+<li class="price-save">
+<span class="price-save-endtime price-save-endtime-current"></span>
+<span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+</li>
+<li class="price-note">
+<span class="price-note-dollar" data-price="$529.99">$529.99</span>
+<span class="price-note-label"> after </span>
+<span class="price-note-dollar">$20.00</span>
+<span class="price-note-label"> rebate card</span>
+</li>
+<li class="price-ship">
+        Free Shipping
+    </li>
+</ul>
+<!--egg point-->
+<!--financing-->
+<!--button-->
+<div class="item-operate hidden-action-button">
+<div class="item-button-area">
+<button class="btn btn-mini" onclick="Javascript:Biz.ProductList.Item.add('https://www.newegg.com/msi-geforce-rtx-2070-super-rtx-2070-super-gaming-x/p/N82E16814137445?Item=N82E16814137445');" title="View Details" type="button">View Details <i class="fa fa-caret-right"></i>
+</button>
+</div>
+<!--compare-->
+<div class="item-compare-box">
+<label class="form-checkbox">
+<input autocomplete="off" name="CompareItem" neg-itemnumber="14-137-445" type="checkbox" value="CompareItem_14-137-445"/>
+<span class="form-checkbox-title">Compare</span>
+</label>
+</div>
+<script type="text/javascript">
+                            
+                                Biz.Product.CompareConfig2019.compareItems.push("14-137-445");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-137-445";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-137-445-V21.jpg";
+                                itemThumbs.description = "MSI GeForce RTX 2070 SUPER DirectX 12 RTX 2070 Super GAMING X Video Card";
+                                itemThumbs.productUrl = "/msi-geforce-rtx-2070-super-rtx-2070-super-gaming-x/p/N82E16814137445?Item=N82E16814137445";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+                            
+                    </script>
+</div>
+<!--ExtendWarranty PopUp-->
+<input class="open-popup" id="ew_N82E16814137445" type="hidden">
+<input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814137445" type="hidden"/>
+</input></div>
+</div>
+<div class="item-stock" id="stock_14-137-445">
+</div>
+</div>, <div class="item-container">
+<!--product image-->
+<a class="item-img" href="https://www.newegg.com/msi-radeon-rx-580-rx-580-armor-8g-oc/p/N82E16814137118?Item=N82E16814137118">
+<div class="item-badges">
+</div>
+<img alt="MSI Radeon RX 580 DirectX 12 RX 580 ARMOR 8G OC 8GB 256-Bit GDDR5 PCI Express x16 HDCP Ready CrossFireX Support Video Card" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-137-118-Z01.jpg" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="MSI Radeon RX 580 DirectX 12 RX 580 ARMOR 8G OC 8GB 256-Bit GDDR5 PCI Express x16 HDCP Ready CrossFireX Support Video Card">
+</img></a>
+<div class="item-info">
+<!--brand info-->
+<div class="item-branding">
+<a class="item-brand" href="https://www.newegg.com/MSI/BrandStore/ID-1312">
+<img alt="MSI" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1312.gif" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="MSI">
+</img></a>
+<!--rating info-->
+<a class="item-rating" href="https://www.newegg.com/msi-radeon-rx-580-rx-580-armor-8g-oc/p/N82E16814137118?Item=N82E16814137118&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo" title="Rating + 4"><i class="rating rating-4"></i><span class="item-rating-num">(126)</span></a>
+</div>
+<!--description info-->
+<a class="item-title" href="https://www.newegg.com/msi-radeon-rx-580-rx-580-armor-8g-oc/p/N82E16814137118?Item=N82E16814137118" title="View Details"><i class="icon-premier icon-premier-xsm"></i>MSI Radeon RX 580 DirectX 12 RX 580 ARMOR 8G OC Video Card</a>
+<!--promption info-->
+<p class="item-promo"><i class="item-promo-icon"></i>+ $25 off w/ promo code 9BFCMPC533, limited offer</p>
+<!--feature-->
+<ul class="item-features">
+<li><strong>DisplayPort:</strong> 2 x DisplayPort</li><li><strong>DVI:</strong> 1 x DL-DVI-D</li><li><strong>HDMI:</strong> 2 x HDMI</li><li><strong>Card Dimensions (L x H):</strong> 10.59" x 4.92"</li>
+<li><strong>Model #: </strong>RX 580 ARMOR 8G OC</li>
+<li><strong>Item #: </strong>N82E16814137118</li>
+</ul>
+<div class="item-action">
+<!--price-->
+<ul class="price has-label-membership">
+<li class="price-was">
+</li>
+<li class="price-map">
+</li>
+<li class="price-current">
+<span class="price-current-label">
+<a aria-label="Premier Price Explaination" class="membership-info membership-popup" data-neg-popid="MembershipPopup" href="javascript:void(0);" name="membership" style="display: inline"><span class="membership-icon"></span><span style="display: none">|</span></a>
+</span>$<strong>189</strong><sup>.99</sup> <a class="price-current-num" href="https://www.newegg.com/msi-radeon-rx-580-rx-580-armor-8g-oc/p/N82E16814137118?Item=N82E16814137118&amp;buyingoptions=New">(12 Offers)</a>
+<span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+</li>
+<li class="price-save">
+<span class="price-save-endtime price-save-endtime-current"></span>
+<span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+</li>
+<li class="price-note">
+<span class="price-note-dollar" data-price="$169.99">$169.99</span>
+<span class="price-note-label"> after </span>
+<span class="price-note-dollar">$20.00</span>
+<span class="price-note-label"> rebate card</span>
+</li>
+<li class="price-ship">
+        Free Shipping
+    </li>
+</ul>
+<!--egg point-->
+<!--financing-->
+<!--buying-choices-->
+<ul class="item-buying-choices">
+<li>
+<a href="https://www.newegg.com/msi-radeon-rx-580-rx-580-armor-8g-oc/p/N82E16814137118?Item=N82E16814137118&amp;buyingoptions=Used">
+<label class="item-buying-choices-label">Used:</label>
+<strong class="item-buying-choices-price">$185.00</strong>
+<span class="item-buying-choices-num">(1 Offers)</span>
+</a>
+</li>
+</ul>
+<!--button-->
+<div class="item-operate hidden-action-button">
+<div class="item-button-area">
+<button class="btn btn-mini" onclick="Javascript:Biz.ProductList.Item.add('https://www.newegg.com/msi-radeon-rx-580-rx-580-armor-8g-oc/p/N82E16814137118?Item=N82E16814137118');" title="View Details" type="button">View Details <i class="fa fa-caret-right"></i>
+</button>
+</div>
+<!--compare-->
+<div class="item-compare-box">
+<label class="form-checkbox">
+<input autocomplete="off" name="CompareItem" neg-itemnumber="14-137-118" type="checkbox" value="CompareItem_14-137-118"/>
+<span class="form-checkbox-title">Compare</span>
+</label>
+</div>
+<script type="text/javascript">
+                            
+                                Biz.Product.CompareConfig2019.compareItems.push("14-137-118");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-137-118";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-137-118-Z01.jpg";
+                                itemThumbs.description = "MSI Radeon RX 580 DirectX 12 RX 580 ARMOR 8G OC Video Card";
+                                itemThumbs.productUrl = "/msi-radeon-rx-580-rx-580-armor-8g-oc/p/N82E16814137118?Item=N82E16814137118";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+                            
+                    </script>
+</div>
+<!--ExtendWarranty PopUp-->
+<input class="open-popup" id="ew_N82E16814137118" type="hidden">
+<input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814137118" type="hidden"/>
+</input></div>
+</div>
+<div class="item-stock" id="stock_14-137-118">
+</div>
+</div>, <div class="item-container">
+<!--product image-->
+<a class="item-img" href="https://www.newegg.com/evga-geforce-rtx-2060-super-08g-p4-3163-kr/p/N82E16814487458?Item=N82E16814487458">
+<div class="item-badges">
+</div>
+<img alt="EVGA GeForce RTX 2060 SUPER XC ULTRA GAMING, 08G-P4-3163-KR, 8GB GDDR6, Dual HDB Fans, RGB LED, Metal Backplate" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-487-458-V07.jpg" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="EVGA GeForce RTX 2060 SUPER XC ULTRA GAMING, 08G-P4-3163-KR, 8GB GDDR6, Dual HDB Fans, RGB LED, Metal Backplate">
+</img></a>
+<div class="item-info">
+<!--brand info-->
+<div class="item-branding">
+<a class="item-brand" href="https://www.newegg.com/EVGA/BrandStore/ID-1402">
+<img alt="EVGA" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1402.gif" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="EVGA">
+</img></a>
+<!--rating info-->
+<a class="item-rating" href="https://www.newegg.com/evga-geforce-rtx-2060-super-08g-p4-3163-kr/p/N82E16814487458?Item=N82E16814487458&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo" title="Rating + 5"><i class="rating rating-5"></i><span class="item-rating-num">(5)</span></a>
+</div>
+<!--description info-->
+<a class="item-title" href="https://www.newegg.com/evga-geforce-rtx-2060-super-08g-p4-3163-kr/p/N82E16814487458?Item=N82E16814487458" title="View Details"><i class="icon-premier icon-premier-xsm"></i>EVGA GeForce RTX 2060 SUPER XC ULTRA GAMING, 08G-P4-3163-KR</a>
+<!--promption info-->
+<p class="item-promo"><i class="item-promo-icon"></i>Buy GeForce RTX™, Get Call of Duty: Modern Warfare™, limited offer</p>
+<!--feature-->
+<ul class="item-features">
+<li><strong>Max Resolution:</strong> 7680 x 4320</li><li><strong>DisplayPort:</strong> 3 x DisplayPort 1.4</li><li><strong>HDMI:</strong> 1 x HDMI 2.0b</li><li><strong>Card Dimensions (L x H):</strong> 10.62" x 4.38"</li>
+<li><strong>Model #: </strong>08G-P4-3163-KR</li>
+<li><strong>Item #: </strong>N82E16814487458</li>
+</ul>
+<div class="item-action">
+<!--price-->
+<ul class="price has-label-membership">
+<li class="price-was">
+</li>
+<li class="price-map">
+</li>
+<li class="price-current">
+<span class="price-current-label">
+<a aria-label="Premier Price Explaination" class="membership-info membership-popup" data-neg-popid="MembershipPopup" href="javascript:void(0);" name="membership" style="display: inline"><span class="membership-icon"></span><span style="display: none">|</span></a>
+</span>$<strong>445</strong><sup>.99</sup> <a class="price-current-num" href="https://www.newegg.com/evga-geforce-rtx-2060-super-08g-p4-3163-kr/p/N82E16814487458?Item=N82E16814487458&amp;buyingoptions=New">(14 Offers)</a>
+<span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+</li>
+<li class="price-save">
+<span class="price-save-endtime price-save-endtime-current"></span>
+<span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+</li>
+<li class="price-note">
+</li>
+<li class="price-ship">
+        $3.99 Shipping
+    </li>
+</ul>
+<!--egg point-->
+<!--financing-->
+<!--button-->
+<div class="item-operate hidden-action-button">
+<div class="item-button-area">
+<button class="btn btn-mini" onclick="Javascript:Biz.ProductList.Item.add('https://www.newegg.com/evga-geforce-rtx-2060-super-08g-p4-3163-kr/p/N82E16814487458?Item=N82E16814487458');" title="View Details" type="button">View Details <i class="fa fa-caret-right"></i>
+</button>
+</div>
+<!--compare-->
+<div class="item-compare-box">
+<label class="form-checkbox">
+<input autocomplete="off" name="CompareItem" neg-itemnumber="14-487-458" type="checkbox" value="CompareItem_14-487-458"/>
+<span class="form-checkbox-title">Compare</span>
+</label>
+</div>
+<script type="text/javascript">
+                            
+                                Biz.Product.CompareConfig2019.compareItems.push("14-487-458");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-487-458";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-487-458-V07.jpg";
+                                itemThumbs.description = "EVGA GeForce RTX 2060 SUPER XC ULTRA GAMING, 08G-P4-3163-KR";
+                                itemThumbs.productUrl = "/evga-geforce-rtx-2060-super-08g-p4-3163-kr/p/N82E16814487458?Item=N82E16814487458";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+                            
+                    </script>
+</div>
+<!--ExtendWarranty PopUp-->
+<input class="open-popup" id="ew_N82E16814487458" type="hidden">
+<input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814487458" type="hidden"/>
+</input></div>
+</div>
+<div class="item-stock" id="stock_14-487-458">
+</div>
+</div>, <div class="item-container">
+<!--product image-->
+<a class="item-img" href="https://www.newegg.com/xfx-radeon-vii-rx-vegma3fd6/p/N82E16814150820?Item=N82E16814150820">
+<div class="item-badges">
+</div>
+<img alt="XFX Radeon VII DirectX 12 RX-VEGMA3FD6 16GB 4096-Bit HBM2 PCI Express 3.0 CrossFireX Support Video Card" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-150-820-V07.jpg" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="XFX Radeon VII DirectX 12 RX-VEGMA3FD6 16GB 4096-Bit HBM2 PCI Express 3.0 CrossFireX Support Video Card">
+</img></a>
+<div class="item-info">
+<!--brand info-->
+<div class="item-branding">
+<a class="item-brand" href="https://www.newegg.com/XFX/BrandStore/ID-1669">
+<img alt="XFX" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1669.gif" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="XFX">
+</img></a>
+<!--rating info-->
+<a class="item-rating" href="https://www.newegg.com/xfx-radeon-vii-rx-vegma3fd6/p/N82E16814150820?Item=N82E16814150820&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo" title="Rating + 4"><i class="rating rating-4"></i><span class="item-rating-num">(17)</span></a>
+</div>
+<!--description info-->
+<a class="item-title" href="https://www.newegg.com/xfx-radeon-vii-rx-vegma3fd6/p/N82E16814150820?Item=N82E16814150820" title="View Details"><i class="icon-premier icon-premier-xsm"></i>XFX Radeon VII DirectX 12 RX-VEGMA3FD6 Video Card</a>
+<!--promption info-->
+<p class="item-promo"><i class="item-promo-icon"></i>Get 3 months of Xbox Game Pass for PC with purchase, limited offer</p>
+<!--feature-->
+<ul class="item-features">
+<li><strong>Core Clock:</strong> 1400 MHz</li><li><strong>Max Resolution:</strong> 4096 x 2160</li><li><strong>DisplayPort:</strong> 3 x DisplayPort 1.4</li><li><strong>HDMI:</strong> 1 x HDMI 2.0b</li>
+<li><strong>Model #: </strong>RX-VEGMA3FD6</li>
+<li><strong>Item #: </strong>N82E16814150820</li>
+</ul>
+<div class="item-action">
+<!--price-->
+<ul class="price has-label-membership">
+<li class="price-was">
+</li>
+<li class="price-map">
+</li>
+<li class="price-current">
+<span class="price-current-label">
+<a aria-label="Premier Price Explaination" class="membership-info membership-popup" data-neg-popid="MembershipPopup" href="javascript:void(0);" name="membership" style="display: inline"><span class="membership-icon"></span><span style="display: none">|</span></a>
+</span>$<strong>549</strong><sup>.99</sup> 
+            <span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+</li>
+<li class="price-save">
+<span class="price-save-endtime price-save-endtime-current"></span>
+<span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+</li>
+<li class="price-note">
+</li>
+<li class="price-ship">
+        Free Shipping
+    </li>
+</ul>
+<!--egg point-->
+<!--financing-->
+<!--button-->
+<div class="item-operate hidden-action-button">
+<div class="item-button-area">
+<button class="btn btn-mini btn-primary" onclick="Biz.Product.video.conversion('cat\x3a\x7bVideo Cards \x26 Video Devices\x7d','14-150-820','1');Javascript:Biz.ProductList.Item.add('https://secure.newegg.com/Shopping/AddToCart.aspx?Submit=ADD&amp;ItemList=N82E16814150820');" title="Add XFX Radeon VII DirectX 12 RX-VEGMA3FD6 Video Card to cart" type="button">Add To Cart <i class="fa fa-caret-right"></i>
+</button>
+</div>
+<!--compare-->
+<div class="item-compare-box">
+<label class="form-checkbox">
+<input autocomplete="off" name="CompareItem" neg-itemnumber="14-150-820" type="checkbox" value="CompareItem_14-150-820"/>
+<span class="form-checkbox-title">Compare</span>
+</label>
+</div>
+<script type="text/javascript">
+                            
+                                Biz.Product.CompareConfig2019.compareItems.push("14-150-820");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-150-820";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-150-820-V07.jpg";
+                                itemThumbs.description = "XFX Radeon VII DirectX 12 RX-VEGMA3FD6 Video Card";
+                                itemThumbs.productUrl = "/xfx-radeon-vii-rx-vegma3fd6/p/N82E16814150820?Item=N82E16814150820";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+                            
+                    </script>
+</div>
+<!--ExtendWarranty PopUp-->
+<input class="open-popup" id="ew_N82E16814150820" type="hidden">
+<input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814150820" type="hidden"/>
+</input></div>
+</div>
+<div class="item-stock" id="stock_14-150-820">
+</div>
+</div>, <div class="item-container">
+<!--product image-->
+<a class="item-img" href="https://www.newegg.com/msi-radeon-rx-5700-xt-rx-5700-xt-evoke-oc/p/N82E16814137464?Item=N82E16814137464">
+<div class="item-badges">
+</div>
+<img alt="MSI Radeon RX 5700 XT DirectX 12 RX 5700 XT EVOKE OC 8GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready CrossFireX Support Video Card" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-137-464-V01.jpg" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="MSI Radeon RX 5700 XT DirectX 12 RX 5700 XT EVOKE OC 8GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready CrossFireX Support Video Card">
+</img></a>
+<div class="item-info">
+<!--brand info-->
+<div class="item-branding">
+<a class="item-brand" href="https://www.newegg.com/MSI/BrandStore/ID-1312">
+<img alt="MSI" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1312.gif" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="MSI">
+</img></a>
+<!--rating info-->
+<a class="item-rating" href="https://www.newegg.com/msi-radeon-rx-5700-xt-rx-5700-xt-evoke-oc/p/N82E16814137464?Item=N82E16814137464&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo" title="Rating + 3"><i class="rating rating-3"></i><span class="item-rating-num">(19)</span></a>
+</div>
+<!--description info-->
+<a class="item-title" href="https://www.newegg.com/msi-radeon-rx-5700-xt-rx-5700-xt-evoke-oc/p/N82E16814137464?Item=N82E16814137464" title="View Details"><i class="icon-premier icon-premier-xsm"></i>MSI Radeon RX 5700 XT DirectX 12 RX 5700 XT EVOKE OC Video Card</a>
+<!--promption info-->
+<p class="item-promo"><i class="item-promo-icon"></i>+ $10 off w/ promo code 9BFCMPC536, limited offer</p>
+<!--feature-->
+<ul class="item-features">
+<li><strong>Core Clock:</strong> 1690 MHz</li><li><strong>Max Resolution:</strong> 7680 x 4320</li><li><strong>DisplayPort:</strong> 3 x DisplayPort 1.4</li><li><strong>HDMI:</strong> 1 x HDMI 2.0b</li>
+<li><strong>Model #: </strong>RX 5700 XT EVOKE OC</li>
+<li><strong>Item #: </strong>N82E16814137464</li>
+</ul>
+<div class="item-action">
+<!--price-->
+<ul class="price has-label-membership">
+<li class="price-was">
+</li>
+<li class="price-map">
+</li>
+<li class="price-current">
+<span class="price-current-label">
+<a aria-label="Premier Price Explaination" class="membership-info membership-popup" data-neg-popid="MembershipPopup" href="javascript:void(0);" name="membership" style="display: inline"><span class="membership-icon"></span><span style="display: none">|</span></a>
+</span>$<strong>389</strong><sup>.99</sup> <a class="price-current-num" href="https://www.newegg.com/msi-radeon-rx-5700-xt-rx-5700-xt-evoke-oc/p/N82E16814137464?Item=N82E16814137464&amp;buyingoptions=New">(4 Offers)</a>
+<span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+</li>
+<li class="price-save">
+<span class="price-save-endtime price-save-endtime-current"></span>
+<span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+</li>
+<li class="price-note">
+<span class="price-note-dollar" data-price="$359.99">$359.99</span>
+<span class="price-note-label"> after </span>
+<span class="price-note-dollar">$30.00</span>
+<span class="price-note-label"> rebate card</span>
+</li>
+<li class="price-ship">
+        Free Shipping
+    </li>
+</ul>
+<!--egg point-->
+<!--financing-->
+<!--button-->
+<div class="item-operate hidden-action-button">
+<div class="item-button-area">
+<button class="btn btn-mini" onclick="Javascript:Biz.ProductList.Item.add('https://www.newegg.com/msi-radeon-rx-5700-xt-rx-5700-xt-evoke-oc/p/N82E16814137464?Item=N82E16814137464');" title="View Details" type="button">View Details <i class="fa fa-caret-right"></i>
+</button>
+</div>
+<!--compare-->
+<div class="item-compare-box">
+<label class="form-checkbox">
+<input autocomplete="off" name="CompareItem" neg-itemnumber="14-137-464" type="checkbox" value="CompareItem_14-137-464"/>
+<span class="form-checkbox-title">Compare</span>
+</label>
+</div>
+<script type="text/javascript">
+                            
+                                Biz.Product.CompareConfig2019.compareItems.push("14-137-464");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-137-464";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-137-464-V01.jpg";
+                                itemThumbs.description = "MSI Radeon RX 5700 XT DirectX 12 RX 5700 XT EVOKE OC Video Card";
+                                itemThumbs.productUrl = "/msi-radeon-rx-5700-xt-rx-5700-xt-evoke-oc/p/N82E16814137464?Item=N82E16814137464";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+                            
+                    </script>
+</div>
+<!--ExtendWarranty PopUp-->
+<input class="open-popup" id="ew_N82E16814137464" type="hidden">
+<input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814137464" type="hidden"/>
+</input></div>
+</div>
+<div class="item-stock" id="stock_14-137-464">
+</div>
+</div>, <div class="item-container">
+<!--product image-->
+<a class="item-img" href="https://www.newegg.com/geforce-rtx-2070-super-asus-rtx2070-super/p/N82E16814126330?Item=N82E16814126330">
+<div class="item-badges">
+</div>
+<img alt="ASUS ROG STRIX GeForce RTX 2070 SUPER Advanced Overclocked 8G GDDR6 HDMI DisplayPort USB Type-C Gaming Graphics Card (ROG-STRIX-RTX2070S-A8G-GAMING)" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-126-330-V02.jpg" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="ASUS ROG STRIX GeForce RTX 2070 SUPER Advanced Overclocked 8G GDDR6 HDMI DisplayPort USB Type-C Gaming Graphics Card (ROG-STRIX-RTX2070S-A8G-GAMING)">
+</img></a>
+<div class="item-info">
+<!--brand info-->
+<div class="item-branding">
+<a class="item-brand" href="https://www.newegg.com/ASUS/BrandStore/ID-1315">
+<img alt="ASUS" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1315.gif" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="ASUS">
+</img></a>
+<!--rating info-->
+<a class="item-rating" href="https://www.newegg.com/geforce-rtx-2070-super-asus-rtx2070-super/p/N82E16814126330?Item=N82E16814126330&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo" title="Rating + 5"><i class="rating rating-5"></i><span class="item-rating-num">(20)</span></a>
+</div>
+<!--description info-->
+<a class="item-title" href="https://www.newegg.com/geforce-rtx-2070-super-asus-rtx2070-super/p/N82E16814126330?Item=N82E16814126330" title="View Details"><i class="icon-premier icon-premier-xsm"></i>ASUS ROG STRIX GeForce RTX 2070 SUPER Advanced Overclocked 8G Gaming Graphics Card (ROG-STRIX-RTX2070S-A8G-GAMING)</a>
+<!--promption info-->
+<p class="item-promo"><i class="item-promo-icon"></i>+ $15 off w/ promo code 9BFCMPC575, limited offer</p>
+<!--feature-->
+<ul class="item-features">
+<li><strong>Core Clock:</strong> OC mode: 1635 MHz
+Gaming mode: 1605 MHz</li><li><strong>Max Resolution:</strong> 7680 x 4320</li><li><strong>DisplayPort:</strong> 2 x DisplayPort 1.4</li><li><strong>HDMI:</strong> 2 x HDMI 2.0b</li>
+<li><strong>Model #: </strong>RTX2070S-A8G-GAMING</li>
+<li><strong>Item #: </strong>N82E16814126330</li>
+</ul>
+<div class="item-action">
+<!--price-->
+<ul class="price has-label-membership">
+<li class="price-was">
+</li>
+<li class="price-map">
+</li>
+<li class="price-current">
+<span class="price-current-label">
+<a aria-label="Premier Price Explaination" class="membership-info membership-popup" data-neg-popid="MembershipPopup" href="javascript:void(0);" name="membership" style="display: inline"><span class="membership-icon"></span><span style="display: none">|</span></a>
+</span>$<strong>569</strong><sup>.99</sup> 
+            <span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+</li>
+<li class="price-save">
+<span class="price-save-endtime price-save-endtime-current"></span>
+<span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+</li>
+<li class="price-note">
+</li>
+<li class="price-ship">
+        Free Shipping
+    </li>
+</ul>
+<!--egg point-->
+<!--financing-->
+<!--button-->
+<div class="item-operate hidden-action-button">
+<div class="item-button-area">
+<button class="btn btn-mini" onclick="Javascript:Biz.ProductList.Item.add('https://www.newegg.com/geforce-rtx-2070-super-asus-rtx2070-super/p/N82E16814126330?Item=N82E16814126330');" title="View Details" type="button">View Details <i class="fa fa-caret-right"></i>
+</button>
+</div>
+<!--compare-->
+<div class="item-compare-box">
+<label class="form-checkbox">
+<input autocomplete="off" name="CompareItem" neg-itemnumber="14-126-330" type="checkbox" value="CompareItem_14-126-330"/>
+<span class="form-checkbox-title">Compare</span>
+</label>
+</div>
+<script type="text/javascript">
+                            
+                                Biz.Product.CompareConfig2019.compareItems.push("14-126-330");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-126-330";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-126-330-V02.jpg";
+                                itemThumbs.description = "ASUS ROG STRIX GeForce RTX 2070 SUPER Advanced Overclocked 8G Gaming Graphics Card &#40;ROG-STRIX-RTX2070S-A8G-GAMING&#41;";
+                                itemThumbs.productUrl = "/geforce-rtx-2070-super-asus-rtx2070-super/p/N82E16814126330?Item=N82E16814126330";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+                            
+                    </script>
+</div>
+<!--ExtendWarranty PopUp-->
+<input class="open-popup" id="ew_N82E16814126330" type="hidden">
+<input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814126330" type="hidden"/>
+</input></div>
+</div>
+<div class="item-stock" id="stock_14-126-330">
+</div>
+</div>, <div class="item-container">
+<!--product image-->
+<a class="item-img" href="https://www.newegg.com/sapphire-radeon-rx-5700-xt-100416nt-8gsr/p/N82E16814202351?Item=N82E16814202351">
+<div class="item-badges">
+</div>
+<img alt="SAPPHIRE NITRO+ Radeon RX 5700 XT 100416NT+8GSR 8GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX Video Card" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-202-351-V04.jpg" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="SAPPHIRE NITRO+ Radeon RX 5700 XT 100416NT+8GSR 8GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX Video Card">
+</img></a>
+<div class="item-info">
+<!--brand info-->
+<div class="item-branding">
+<a class="item-brand" href="https://www.newegg.com/Sapphire-Tech/BrandStore/ID-1561">
+<img alt="Sapphire Tech" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1561.gif" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="Sapphire Tech">
+</img></a>
+<!--rating info-->
+<a class="item-rating" href="https://www.newegg.com/sapphire-radeon-rx-5700-xt-100416nt-8gsr/p/N82E16814202351?Item=N82E16814202351&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo" title="Rating + 5"><i class="rating rating-5"></i><span class="item-rating-num">(40)</span></a>
+</div>
+<!--description info-->
+<a class="item-title" href="https://www.newegg.com/sapphire-radeon-rx-5700-xt-100416nt-8gsr/p/N82E16814202351?Item=N82E16814202351" title="View Details"><i class="icon-premier icon-premier-xsm"></i>SAPPHIRE NITRO+ Radeon RX 5700 XT 100416NT+8GSR Video Card</a>
+<!--promption info-->
+<p class="item-promo"><i class="item-promo-icon"></i>Get BL3 or Ghost Recon + 3 months of Xbox Game Pass w/ purchase, ends soon</p>
+<!--feature-->
+<ul class="item-features">
+<li><strong>Core Clock:</strong> 1770 MHz</li><li><strong>Max Resolution:</strong> HDMI: 4096 x 2160 @ 60 Hz
+DisplayPort1.4: 5120 x 2880 @ 60 Hz</li><li><strong>DisplayPort:</strong> 2 x DisplayPort 1.4</li><li><strong>HDMI:</strong> 2 x HDMI</li>
+<li><strong>Model #: </strong>100416NT+8GSR</li>
+<li><strong>Item #: </strong>N82E16814202351</li>
+</ul>
+<div class="item-action">
+<!--price-->
+<ul class="price has-label-membership">
+<li class="price-was">
+</li>
+<li class="price-map">
+</li>
+<li class="price-current">
+<span class="price-current-label">
+<a aria-label="Premier Price Explaination" class="membership-info membership-popup" data-neg-popid="MembershipPopup" href="javascript:void(0);" name="membership" style="display: inline"><span class="membership-icon"></span><span style="display: none">|</span></a>
+</span>$<strong>449</strong><sup>.99</sup> 
+            <span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+</li>
+<li class="price-save">
+<span class="price-save-endtime price-save-endtime-current"></span>
+<span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+</li>
+<li class="price-note">
+</li>
+<li class="price-ship">
+        Free Shipping
+    </li>
+</ul>
+<!--egg point-->
+<!--financing-->
+<!--button-->
+<div class="item-operate hidden-action-button">
+<div class="item-button-area">
+<button class="btn btn-mini" onclick="Javascript:Biz.ProductList.Item.add('https://www.newegg.com/sapphire-radeon-rx-5700-xt-100416nt-8gsr/p/N82E16814202351?Item=N82E16814202351');" title="View Details" type="button">View Details <i class="fa fa-caret-right"></i>
+</button>
+</div>
+<!--compare-->
+<div class="item-compare-box">
+<label class="form-checkbox">
+<input autocomplete="off" name="CompareItem" neg-itemnumber="14-202-351" type="checkbox" value="CompareItem_14-202-351"/>
+<span class="form-checkbox-title">Compare</span>
+</label>
+</div>
+<script type="text/javascript">
+                            
+                                Biz.Product.CompareConfig2019.compareItems.push("14-202-351");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-202-351";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-202-351-V04.jpg";
+                                itemThumbs.description = "SAPPHIRE NITRO&#43; Radeon RX 5700 XT 100416NT&#43;8GSR Video Card";
+                                itemThumbs.productUrl = "/sapphire-radeon-rx-5700-xt-100416nt-8gsr/p/N82E16814202351?Item=N82E16814202351";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+                            
+                    </script>
+</div>
+<!--ExtendWarranty PopUp-->
+<input class="open-popup" id="ew_N82E16814202351" type="hidden">
+<input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814202351" type="hidden"/>
+</input></div>
+</div>
+<div class="item-stock" id="stock_14-202-351">
+</div>
+</div>, <div class="item-container">
+<!--product image-->
+<a class="item-img" href="https://www.newegg.com/asus-geforce-rtx-2070-rog-strix-rtx2070-o8g-gaming/p/N82E16814126266?Item=N82E16814126266">
+<div class="item-badges">
+</div>
+<img alt="ASUS ROG Strix GeForce RTX 2070 DirectX 12 ROG-STRIX-RTX2070-O8G-GAMING 8GB 256-Bit GDDR6 PCI Express 3.0 HDCP Ready Video Card" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-126-266-V50.jpg" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="ASUS ROG Strix GeForce RTX 2070 DirectX 12 ROG-STRIX-RTX2070-O8G-GAMING 8GB 256-Bit GDDR6 PCI Express 3.0 HDCP Ready Video Card">
+</img></a>
+<div class="item-info">
+<!--brand info-->
+<div class="item-branding">
+<a class="item-brand" href="https://www.newegg.com/ASUS/BrandStore/ID-1315">
+<img alt="ASUS" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1315.gif" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="ASUS">
+</img></a>
+<!--rating info-->
+<a class="item-rating" href="https://www.newegg.com/asus-geforce-rtx-2070-rog-strix-rtx2070-o8g-gaming/p/N82E16814126266?Item=N82E16814126266&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo" title="Rating + 3"><i class="rating rating-3"></i><span class="item-rating-num">(66)</span></a>
+</div>
+<!--description info-->
+<a class="item-title" href="https://www.newegg.com/asus-geforce-rtx-2070-rog-strix-rtx2070-o8g-gaming/p/N82E16814126266?Item=N82E16814126266" title="View Details"><i class="icon-premier icon-premier-xsm"></i>ASUS ROG Strix GeForce RTX 2070 DirectX 12 ROG-STRIX-RTX2070-O8G-GAMING Video Card</a>
+<!--promption info-->
+<p class="item-promo"><i class="item-promo-icon"></i>+ $20 off w/ promo code 9BFCMPC572, limited offer</p>
+<!--feature-->
+<ul class="item-features">
+<li><strong>Core Clock:</strong> 1410 MHz</li><li><strong>Max Resolution:</strong> 7680 x 4320</li><li><strong>DisplayPort:</strong> 2 x DisplayPort 1.4</li><li><strong>HDMI:</strong> 2 x HDMI 2.0b</li>
+<li><strong>Model #: </strong>RTX2070-O8G-GAMING</li>
+<li><strong>Item #: </strong>N82E16814126266</li>
+</ul>
+<div class="item-action">
+<!--price-->
+<ul class="price has-label-membership">
+<li class="price-was">
+</li>
+<li class="price-map">
+</li>
+<li class="price-current">
+<span class="price-current-label">
+<a aria-label="Premier Price Explaination" class="membership-info membership-popup" data-neg-popid="MembershipPopup" href="javascript:void(0);" name="membership" style="display: inline"><span class="membership-icon"></span><span style="display: none">|</span></a>
+</span>$<strong>479</strong><sup>.99</sup> <a class="price-current-num" href="https://www.newegg.com/asus-geforce-rtx-2070-rog-strix-rtx2070-o8g-gaming/p/N82E16814126266?Item=N82E16814126266&amp;buyingoptions=New">(3 Offers)</a>
+<span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+</li>
+<li class="price-save">
+<span class="price-save-endtime price-save-endtime-current"></span>
+<span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+</li>
+<li class="price-note">
+</li>
+<li class="price-ship">
+        Free Shipping
+    </li>
+</ul>
+<!--egg point-->
+<!--financing-->
+<!--button-->
+<div class="item-operate hidden-action-button">
+<div class="item-button-area">
+<button class="btn btn-mini" onclick="Javascript:Biz.ProductList.Item.add('https://www.newegg.com/asus-geforce-rtx-2070-rog-strix-rtx2070-o8g-gaming/p/N82E16814126266?Item=N82E16814126266');" title="View Details" type="button">View Details <i class="fa fa-caret-right"></i>
+</button>
+</div>
+<!--compare-->
+<div class="item-compare-box">
+<label class="form-checkbox">
+<input autocomplete="off" name="CompareItem" neg-itemnumber="14-126-266" type="checkbox" value="CompareItem_14-126-266"/>
+<span class="form-checkbox-title">Compare</span>
+</label>
+</div>
+<script type="text/javascript">
+                            
+                                Biz.Product.CompareConfig2019.compareItems.push("14-126-266");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-126-266";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-126-266-V50.jpg";
+                                itemThumbs.description = "ASUS ROG Strix GeForce RTX 2070 DirectX 12 ROG-STRIX-RTX2070-O8G-GAMING Video Card";
+                                itemThumbs.productUrl = "/asus-geforce-rtx-2070-rog-strix-rtx2070-o8g-gaming/p/N82E16814126266?Item=N82E16814126266";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+                            
+                    </script>
+</div>
+<!--ExtendWarranty PopUp-->
+<input class="open-popup" id="ew_N82E16814126266" type="hidden">
+<input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814126266" type="hidden"/>
+</input></div>
+</div>
+<div class="item-stock" id="stock_14-126-266">
+</div>
+</div>, <div class="item-container">
+<!--product image-->
+<a class="item-img" href="https://www.newegg.com/asrock-radeon-rx-5700-xt-rx-5700-xt-taichi-x-8g-oc/p/N82E16814930022?Item=N82E16814930022">
+<div class="item-badges">
+</div>
+<img alt="ASRock Radeon RX 5700 XT DirectX 12 RX 5700 XT TAICHI X 8G OC+ 8GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready Video Card" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-930-022-V01.jpg" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="ASRock Radeon RX 5700 XT DirectX 12 RX 5700 XT TAICHI X 8G OC+ 8GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready Video Card">
+</img></a>
+<div class="item-info">
+<!--brand info-->
+<div class="item-branding">
+<a class="item-brand" href="https://www.newegg.com/ASRock/BrandStore/ID-1944">
+<img alt="ASRock" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1944.gif" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="ASRock">
+</img></a>
+<!--rating info-->
+<a class="item-rating" href="https://www.newegg.com/asrock-radeon-rx-5700-xt-rx-5700-xt-taichi-x-8g-oc/p/N82E16814930022?Item=N82E16814930022&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo" title="Rating + 3"><i class="rating rating-3"></i><span class="item-rating-num">(16)</span></a>
+</div>
+<!--description info-->
+<a class="item-title" href="https://www.newegg.com/asrock-radeon-rx-5700-xt-rx-5700-xt-taichi-x-8g-oc/p/N82E16814930022?Item=N82E16814930022" title="View Details"><i class="icon-premier icon-premier-xsm"></i>ASRock Radeon RX 5700 XT DirectX 12 RX 5700 XT TAICHI X 8G OC+ Video Card</a>
+<!--promption info-->
+<p class="item-promo"><i class="item-promo-icon"></i>Get an ASRock Gaming Router + AMD GIFT with purchase, limited offer</p>
+<!--feature-->
+<ul class="item-features">
+<li><strong>Core Clock:</strong> Tweak / Default: 1885 / 1810 MHz</li><li><strong>Max Resolution:</strong> 7680 x 4320</li><li><strong>DisplayPort:</strong> 4 x DisplayPort 1.4</li><li><strong>HDMI:</strong> 2 x HDMI 2.0b</li>
+<li><strong>Model #: </strong>RX5700XTTAICHIXOC</li>
+<li><strong>Item #: </strong>N82E16814930022</li>
+</ul>
+<div class="item-action">
+<!--price-->
+<ul class="price has-label-membership">
+<li class="price-was">
+</li>
+<li class="price-map">
+</li>
+<li class="price-current">
+<span class="price-current-label">
+<a aria-label="Premier Price Explaination" class="membership-info membership-popup" data-neg-popid="MembershipPopup" href="javascript:void(0);" name="membership" style="display: inline"><span class="membership-icon"></span><span style="display: none">|</span></a>
+</span>$<strong>429</strong><sup>.99</sup> 
+            <span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+</li>
+<li class="price-save">
+<span class="price-save-endtime price-save-endtime-current"></span>
+<span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+</li>
+<li class="price-note">
+</li>
+<li class="price-ship">
+        Free Shipping
+    </li>
+</ul>
+<!--egg point-->
+<!--financing-->
+<!--button-->
+<div class="item-operate hidden-action-button">
+<div class="item-button-area">
+<button class="btn btn-mini" onclick="Javascript:Biz.ProductList.Item.add('https://www.newegg.com/asrock-radeon-rx-5700-xt-rx-5700-xt-taichi-x-8g-oc/p/N82E16814930022?Item=N82E16814930022');" title="View Details" type="button">View Details <i class="fa fa-caret-right"></i>
+</button>
+</div>
+<!--compare-->
+<div class="item-compare-box">
+<label class="form-checkbox">
+<input autocomplete="off" name="CompareItem" neg-itemnumber="14-930-022" type="checkbox" value="CompareItem_14-930-022"/>
+<span class="form-checkbox-title">Compare</span>
+</label>
+</div>
+<script type="text/javascript">
+                            
+                                Biz.Product.CompareConfig2019.compareItems.push("14-930-022");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-930-022";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-930-022-V01.jpg";
+                                itemThumbs.description = "ASRock Radeon RX 5700 XT DirectX 12 RX 5700 XT TAICHI X 8G OC&#43; Video Card";
+                                itemThumbs.productUrl = "/asrock-radeon-rx-5700-xt-rx-5700-xt-taichi-x-8g-oc/p/N82E16814930022?Item=N82E16814930022";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+                            
+                    </script>
+</div>
+<!--ExtendWarranty PopUp-->
+<input class="open-popup" id="ew_N82E16814930022" type="hidden">
+<input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814930022" type="hidden"/>
+</input></div>
+</div>
+<div class="item-stock" id="stock_14-930-022">
+</div>
+</div>, <div class="item-container">
+<!--product image-->
+<a class="item-img" href="https://www.newegg.com/msi-geforce-rtx-2080-rtx-2080-gaming-x-trio/p/N82E16814137340?Item=N82E16814137340">
+<div class="item-badges">
+</div>
+<img alt="MSI GeForce RTX 2080 GAMING X TRIO Video Card" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-137-340-V15.jpg" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="MSI GeForce RTX 2080 GAMING X TRIO Video Card">
+</img></a>
+<div class="item-info">
+<!--brand info-->
+<div class="item-branding">
+<a class="item-brand" href="https://www.newegg.com/MSI/BrandStore/ID-1312">
+<img alt="MSI" class="lazy-img" data-effect="fadeIn" data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1312.gif" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="MSI">
+</img></a>
+<!--rating info-->
+<a class="item-rating" href="https://www.newegg.com/msi-geforce-rtx-2080-rtx-2080-gaming-x-trio/p/N82E16814137340?Item=N82E16814137340&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo" title="Rating + 4"><i class="rating rating-4"></i><span class="item-rating-num">(70)</span></a>
+</div>
+<!--description info-->
+<a class="item-title" href="https://www.newegg.com/msi-geforce-rtx-2080-rtx-2080-gaming-x-trio/p/N82E16814137340?Item=N82E16814137340" title="View Details"><i class="icon-premier icon-premier-xsm"></i>MSI GeForce RTX 2080 GAMING X TRIO Video Card</a>
+<!--promption info-->
+<p class="item-promo"><i class="item-promo-icon"></i>Buy GeForce RTX™, Get Call of Duty: Modern Warfare™, limited offer</p>
+<!--feature-->
+<ul class="item-features">
+<li><strong>Core Clock:</strong> 1515 MHz</li><li><strong>Max Resolution:</strong> 7680 x 4320</li><li><strong>DisplayPort:</strong> 3 x DisplayPort 1.4</li><li><strong>HDMI:</strong> 1 x HDMI 2.0b</li>
+<li><strong>Model #: </strong>RTX2080GAMING X TRIO</li>
+<li><strong>Item #: </strong>N82E16814137340</li>
+</ul>
+<div class="item-action">
+<!--price-->
+<ul class="price has-label-membership">
+<li class="price-was">
+</li>
+<li class="price-map">
+</li>
+<li class="price-current">
+<span class="price-current-label">
+<a aria-label="Premier Price Explaination" class="membership-info membership-popup" data-neg-popid="MembershipPopup" href="javascript:void(0);" name="membership" style="display: inline"><span class="membership-icon"></span><span style="display: none">|</span></a>
+</span>$<strong>664</strong><sup>.99</sup> <a class="price-current-num" href="https://www.newegg.com/msi-geforce-rtx-2080-rtx-2080-gaming-x-trio/p/N82E16814137340?Item=N82E16814137340&amp;buyingoptions=New">(8 Offers)</a>
+<span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+</li>
+<li class="price-save">
+<span class="price-save-endtime price-save-endtime-current"></span>
+<span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+</li>
+<li class="price-note">
+<span class="price-note-dollar" data-price="$644.99">$644.99</span>
+<span class="price-note-label"> after </span>
+<span class="price-note-dollar">$20.00</span>
+<span class="price-note-label"> rebate card</span>
+</li>
+<li class="price-ship">
+        Free Shipping
+    </li>
+</ul>
+<!--egg point-->
+<!--financing-->
+<!--button-->
+<div class="item-operate hidden-action-button">
+<div class="item-button-area">
+<button class="btn btn-mini" onclick="Javascript:Biz.ProductList.Item.add('https://www.newegg.com/msi-geforce-rtx-2080-rtx-2080-gaming-x-trio/p/N82E16814137340?Item=N82E16814137340');" title="View Details" type="button">View Details <i class="fa fa-caret-right"></i>
+</button>
+</div>
+<!--compare-->
+<div class="item-compare-box">
+<label class="form-checkbox">
+<input autocomplete="off" name="CompareItem" neg-itemnumber="14-137-340" type="checkbox" value="CompareItem_14-137-340"/>
+<span class="form-checkbox-title">Compare</span>
+</label>
+</div>
+<script type="text/javascript">
+                            
+                                Biz.Product.CompareConfig2019.compareItems.push("14-137-340");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-137-340";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-137-340-V15.jpg";
+                                itemThumbs.description = "MSI GeForce RTX 2080 GAMING X TRIO Video Card";
+                                itemThumbs.productUrl = "/msi-geforce-rtx-2080-rtx-2080-gaming-x-trio/p/N82E16814137340?Item=N82E16814137340";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+                            
+                    </script>
+</div>
+<!--ExtendWarranty PopUp-->
+<input class="open-popup" id="ew_N82E16814137340" type="hidden">
+<input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814137340" type="hidden"/>
+</input></div>
+</div>
+<div class="item-stock" id="stock_14-137-340">
+</div>
+</div>]

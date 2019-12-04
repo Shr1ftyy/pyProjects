@@ -1,0 +1,562 @@
+<tbody data-reactid="54">
+ <tr class="data-rowBTC-USD Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Whs(nw)" data-reactid="55">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="56">
+   <a class="Fw(b)" data-reactid="57" data-symbol="BTC-USD" href="/quote/BTC-USD?p=BTC-USD" title="Bitcoin USD">
+    BTC-USD
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="58">
+   Bitcoin USD
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="59">
+   7,192.61
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="60">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="61">
+   CRYPTOCURRENCY
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="62">
+   CCC
+  </td>
+ </tr>
+ <tr class="data-rowBTCUSD=X Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Bgc($altRowColor) Whs(nw)" data-reactid="63">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="64">
+   <a class="Fw(b)" data-reactid="65" data-symbol="BTCUSD=X" href="/quote/BTCUSD%3DX?p=BTCUSD%3DX" title="Bitcoin USD">
+    BTCUSD=X
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="66">
+   Bitcoin USD
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="67">
+   7,189.69
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="68">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="69">
+   Currency
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="70">
+   CCY
+  </td>
+ </tr>
+ <tr class="data-rowGBTC Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Whs(nw)" data-reactid="71">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="72">
+   <a class="Fw(b)" data-reactid="73" data-symbol="GBTC" href="/quote/GBTC?p=GBTC" title="GRAYSCALE BITCOIN TRUST BTC">
+    GBTC
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="74">
+   GRAYSCALE BITCOIN TRUST BTC
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="75">
+   8.99
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="76">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="77">
+   Stocks
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="78">
+   PNK
+  </td>
+ </tr>
+ <tr class="data-rowBTC=F Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Bgc($altRowColor) Whs(nw)" data-reactid="79">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="80">
+   <a class="Fw(b)" data-reactid="81" data-symbol="BTC=F" href="/quote/BTC%3DF?p=BTC%3DF" title="Bitcoin Futures,Nov-2019">
+    BTC=F
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="82">
+   Bitcoin Futures,Nov-2019
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="83">
+   7,155.00
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="84">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="85">
+   Future
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="86">
+   CME
+  </td>
+ </tr>
+ <tr class="data-rowBCH-USD Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Whs(nw)" data-reactid="87">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="88">
+   <a class="Fw(b)" data-reactid="89" data-symbol="BCH-USD" href="/quote/BCH-USD?p=BCH-USD" title="Bitcoin Cash USD">
+    BCH-USD
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="90">
+   Bitcoin Cash USD
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="91">
+   207.02
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="92">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="93">
+   CRYPTOCURRENCY
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="94">
+   CCC
+  </td>
+ </tr>
+ <tr class="data-rowCBTC Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Bgc($altRowColor) Whs(nw)" data-reactid="95">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="96">
+   <a class="Fw(b)" data-reactid="97" data-symbol="CBTC" href="/quote/CBTC?p=CBTC" title="XTRA BITCOIN INC">
+    CBTC
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="98">
+   XTRA BITCOIN INC
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="99">
+   0.00
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="100">
+   <a class="Fw(b)" data-reactid="101" data-symbol="CBTC" href="https://finance.yahoo.com/sector/financial_services" title="Financial Services">
+    Financial Services
+   </a>
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="102">
+   Stocks
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="103">
+   PNK
+  </td>
+ </tr>
+ <tr class="data-rowBTC-EUR Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Whs(nw)" data-reactid="104">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="105">
+   <a class="Fw(b)" data-reactid="106" data-symbol="BTC-EUR" href="/quote/BTC-EUR?p=BTC-EUR" title="Bitcoin EUR">
+    BTC-EUR
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="107">
+   Bitcoin EUR
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="108">
+   6,494.75
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="109">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="110">
+   CRYPTOCURRENCY
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="111">
+   CCC
+  </td>
+ </tr>
+ <tr class="data-rowBTSC Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Bgc($altRowColor) Whs(nw)" data-reactid="112">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="113">
+   <a class="Fw(b)" data-reactid="114" data-symbol="BTSC" href="/quote/BTSC?p=BTSC" title="BITCOIN SERVICES INC">
+    BTSC
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="115">
+   BITCOIN SERVICES INC
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="116">
+   0.02
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="117">
+   <a class="Fw(b)" data-reactid="118" data-symbol="BTSC" href="https://finance.yahoo.com/sector/financial_services" title="Financial Services">
+    Financial Services
+   </a>
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="119">
+   Stocks
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="120">
+   PNK
+  </td>
+ </tr>
+ <tr class="data-rowBITCF Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Whs(nw)" data-reactid="121">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="122">
+   <a class="Fw(b)" data-reactid="123" data-symbol="BITCF" href="/quote/BITCF?p=BITCF" title="FIRST BITCOIN CAP CORP">
+    BITCF
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="124">
+   FIRST BITCOIN CAP CORP
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="125">
+   0.10
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="126">
+   <a class="Fw(b)" data-reactid="127" data-symbol="BITCF" href="https://finance.yahoo.com/sector/financial_services" title="Financial Services">
+    Financial Services
+   </a>
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="128">
+   Stocks
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="129">
+   PNK
+  </td>
+ </tr>
+ <tr class="data-rowBTC-CAD Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Bgc($altRowColor) Whs(nw)" data-reactid="130">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="131">
+   <a class="Fw(b)" data-reactid="132" data-symbol="BTC-CAD" href="/quote/BTC-CAD?p=BTC-CAD" title="Bitcoin CAD">
+    BTC-CAD
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="133">
+   Bitcoin CAD
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="134">
+   9,558.76
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="135">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="136">
+   CRYPTOCURRENCY
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="137">
+   CCC
+  </td>
+ </tr>
+ <tr class="data-rowBITCOIN-XBTE.ST Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Whs(nw)" data-reactid="138">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="139">
+   <a class="Fw(b)" data-reactid="140" data-symbol="BITCOIN-XBTE.ST" href="/quote/BITCOIN-XBTE.ST?p=BITCOIN-XBTE.ST" title="Bitcoin Tracker EUR XBT Provide">
+    BITCOIN-XBTE.ST
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="141">
+   Bitcoin Tracker EUR XBT Provide
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="142">
+   311.95
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="143">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="144">
+   ETF
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="145">
+   STO
+  </td>
+ </tr>
+ <tr class="data-rowBTC-GBP Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Bgc($altRowColor) Whs(nw)" data-reactid="146">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="147">
+   <a class="Fw(b)" data-reactid="148" data-symbol="BTC-GBP" href="/quote/BTC-GBP?p=BTC-GBP" title="Bitcoin GBP">
+    BTC-GBP
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="149">
+   Bitcoin GBP
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="150">
+   5,535.94
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="151">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="152">
+   CRYPTOCURRENCY
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="153">
+   CCC
+  </td>
+ </tr>
+ <tr class="data-rowADE.DE Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Whs(nw)" data-reactid="154">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="155">
+   <a class="Fw(b)" data-reactid="156" data-symbol="ADE.DE" href="/quote/ADE.DE?p=ADE.DE" title="BITCOIN GROUP SE  O.N.">
+    ADE.DE
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="157">
+   BITCOIN GROUP SE  O.N.
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="158">
+   26.05
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="159">
+   <a class="Fw(b)" data-reactid="160" data-symbol="ADE.DE" href="https://finance.yahoo.com/sector/financial_services" title="Financial Services">
+    Financial Services
+   </a>
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="161">
+   Stocks
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="162">
+   GER
+  </td>
+ </tr>
+ <tr class="data-rowBTC-INR Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Bgc($altRowColor) Whs(nw)" data-reactid="163">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="164">
+   <a class="Fw(b)" data-reactid="165" data-symbol="BTC-INR" href="/quote/BTC-INR?p=BTC-INR" title="Bitcoin INR">
+    BTC-INR
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="166">
+   Bitcoin INR
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="167">
+   516,051.90
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="168">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="169">
+   CRYPTOCURRENCY
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="170">
+   CCC
+  </td>
+ </tr>
+ <tr class="data-rowBITCOIN-XBT.ST Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Whs(nw)" data-reactid="171">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="172">
+   <a class="Fw(b)" data-reactid="173" data-symbol="BITCOIN-XBT.ST" href="/quote/BITCOIN-XBT.ST?p=BITCOIN-XBT.ST" title="Bitcoin Tracker One XBT Provide">
+    BITCOIN-XBT.ST
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="174">
+   Bitcoin Tracker One XBT Provide
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="175">
+   326.35
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="176">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="177">
+   ETF
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="178">
+   STO
+  </td>
+ </tr>
+ <tr class="data-row^NYXBT Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Bgc($altRowColor) Whs(nw)" data-reactid="179">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="180">
+   <a class="Fw(b)" data-reactid="181" data-symbol="^NYXBT" href="/quote/%5ENYXBT?p=%5ENYXBT" title="The NYSE Bitcoin Index">
+    ^NYXBT
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="182">
+   The NYSE Bitcoin Index
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="183">
+   7,343.07
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="184">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="185">
+   Index
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="186">
+   NYS
+  </td>
+ </tr>
+ <tr class="data-rowBTG-USD Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Whs(nw)" data-reactid="187">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="188">
+   <a class="Fw(b)" data-reactid="189" data-symbol="BTG-USD" href="/quote/BTG-USD?p=BTG-USD" title="Bitcoin Gold USD">
+    BTG-USD
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="190">
+   Bitcoin Gold USD
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="191">
+   5.90
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="192">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="193">
+   CRYPTOCURRENCY
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="194">
+   CCC
+  </td>
+ </tr>
+ <tr class="data-rowBTGN Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Bgc($altRowColor) Whs(nw)" data-reactid="195">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="196">
+   <a class="Fw(b)" data-reactid="197" data-symbol="BTGN" href="/quote/BTGN?p=BTGN" title="BITCOIN GENERATION INC">
+    BTGN
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="198">
+   BITCOIN GENERATION INC
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="199">
+   0.01
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="200">
+   <a class="Fw(b)" data-reactid="201" data-symbol="BTGN" href="https://finance.yahoo.com/sector/financial_services" title="Financial Services">
+    Financial Services
+   </a>
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="202">
+   Stocks
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="203">
+   PNK
+  </td>
+ </tr>
+ <tr class="data-rowBCH-ETH Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Whs(nw)" data-reactid="204">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="205">
+   <a class="Fw(b)" data-reactid="206" data-symbol="BCH-ETH" href="/quote/BCH-ETH?p=BCH-ETH" title="Bitcoin Cash ETH">
+    BCH-ETH
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="207">
+   Bitcoin Cash ETH
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="208">
+   1.42
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="209">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="210">
+   CRYPTOCURRENCY
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="211">
+   CCC
+  </td>
+ </tr>
+ <tr class="data-rowBTC-ETH Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Bgc($altRowColor) Whs(nw)" data-reactid="212">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="213">
+   <a class="Fw(b)" data-reactid="214" data-symbol="BTC-ETH" href="/quote/BTC-ETH?p=BTC-ETH" title="Bitcoin ETH">
+    BTC-ETH
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="215">
+   Bitcoin ETH
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="216">
+   49.50
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="217">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="218">
+   CRYPTOCURRENCY
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="219">
+   CCC
+  </td>
+ </tr>
+ <tr class="data-rowBCH-EUR Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Whs(nw)" data-reactid="220">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="221">
+   <a class="Fw(b)" data-reactid="222" data-symbol="BCH-EUR" href="/quote/BCH-EUR?p=BCH-EUR" title="Bitcoin Cash EUR">
+    BCH-EUR
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="223">
+   Bitcoin Cash EUR
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="224">
+   186.90
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="225">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="226">
+   CRYPTOCURRENCY
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="227">
+   CCC
+  </td>
+ </tr>
+ <tr class="data-rowABTC.SW Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Bgc($altRowColor) Whs(nw)" data-reactid="228">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="229">
+   <a class="Fw(b)" data-reactid="230" data-symbol="ABTC.SW" href="/quote/ABTC.SW?p=ABTC.SW" title="Amun Bitcoin (ABTC) ETP">
+    ABTC.SW
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="231">
+   Amun Bitcoin (ABTC) ETP
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="232">
+   37.48
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="233">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="234">
+   ETF
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="235">
+   EBS
+  </td>
+ </tr>
+ <tr class="data-rowBTC-CNY Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Whs(nw)" data-reactid="236">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="237">
+   <a class="Fw(b)" data-reactid="238" data-symbol="BTC-CNY" href="/quote/BTC-CNY?p=BTC-CNY" title="Bitcoin CNY">
+    BTC-CNY
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="239">
+   Bitcoin CNY
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="240">
+   50,846.00
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="241">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="242">
+   CRYPTOCURRENCY
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="243">
+   CCC
+  </td>
+ </tr>
+ <tr class="data-row^BLX Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Bgc($altRowColor) Whs(nw)" data-reactid="244">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="245">
+   <a class="Fw(b)" data-reactid="246" data-symbol="^BLX" href="/quote/%5EBLX?p=%5EBLX" title="Bitcoin Liquid Index">
+    ^BLX
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="247">
+   Bitcoin Liquid Index
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="248">
+   7,136.65
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="249">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="250">
+   Index
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="251">
+   NIM
+  </td>
+ </tr>
+ <tr class="data-rowBTC-AUD Bgc($extraLightBlue):h BdT Bdc($tableBorderGray) Bdc($tableBorderBlue):h H(33px) Whs(nw)" data-reactid="252">
+  <td class="data-col0 Ta(start) Pstart(6px) Pend(15px)" data-reactid="253">
+   <a class="Fw(b)" data-reactid="254" data-symbol="BTC-AUD" href="/quote/BTC-AUD?p=BTC-AUD" title="Bitcoin AUD">
+    BTC-AUD
+   </a>
+  </td>
+  <td class="data-col1 Ta(start) Pstart(10px) Miw(80px)" data-reactid="255">
+   Bitcoin AUD
+  </td>
+  <td class="data-col2 Ta(end) Pstart(20px) Pend(15px)" data-reactid="256">
+   10,537.93
+  </td>
+  <td class="data-col3 Ta(start) Pstart(20px) Miw(60px)" data-reactid="257">
+   N/A
+  </td>
+  <td class="data-col4 Ta(start) Pstart(20px) Miw(30px)" data-reactid="258">
+   CRYPTOCURRENCY
+  </td>
+  <td class="data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)" data-reactid="259">
+   CCC
+  </td>
+ </tr>
+</tbody>

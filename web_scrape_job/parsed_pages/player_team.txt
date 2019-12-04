@@ -1,0 +1,56 @@
+<tr style="height: 30px;">
+<td style="text-align: left;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_Athlete_Label">Paige Blaskovich JR</span>
+</td>
+<td style="text-align: left;">
+<a href="TeamRosterSchedule.aspx?IDSport=65E5DA09-90C6-45F5-847A-F9A84FD9C5B0&amp;IDSportSeason=h201903050124242861ca0fcfe178e41&amp;IDTeam=h2019030501244100225727acb9bcf45" id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_TeamName_HyperLink">North Scott</a>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_Games_Label">19</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_GamesStarted_Label">19</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_Goals_Label">9</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_Assists_Label">2</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_Points_Label">20</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_Shots_Label">0</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_ShotPercentage_Label">0.000</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_ShotsOnGoal_Label">22</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_ShotsOnGoalPercentage_Label">0.409</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_PenaltyKicksMade_Label">2</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_PenaltyKicksAttempted_Label">2</span>
+</td>
+<td style="text-align: center; border-left: solid 1px black;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_GoalieMinutes_Label">0</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_GoalsAgainst_Label">0</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_GoalsAgainstAverage_Label">0.000</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_Saves_Label">0</span>
+</td>
+<td style="text-align: center;">
+<span id="ctl00_ContentPlaceHolder1_ui_Standings_Repeater_ctl200_ui_SavePercentage_Label">0.000</span>
+</td>
+</tr>

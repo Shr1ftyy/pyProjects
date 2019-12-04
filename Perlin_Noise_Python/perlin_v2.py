@@ -106,7 +106,7 @@ def stats():
 	global genY
 	global chunks
 
-	#os.system('clear')
+	os.system('clear')
 
 	print("CHUNKS GENERATED: " + str(chunks))
 	print("""chunk generation rate: """ + str(genFPS))
