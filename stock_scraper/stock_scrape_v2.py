@@ -3,11 +3,12 @@ import bs4
 from bs4 import BeautifulSoup as soup 
 import os
 import sys
+import time
 
 print("importing")
 
 from PyQt4.QtGui import QApplication
-from PyQt4.QtCore import QUrl
+from PyQt4.QtCore import QUrl	
 from PyQt4.QtWebKit import QWebPage 
 
 ###################
@@ -16,13 +17,20 @@ from PyQt4.QtWebKit import QWebPage
 
 class Client(QWebPage):
 	def __init__(self, url):
+		# self.app = QApplication.instance()
+		# if self.app is None:
 		self.app = QApplication(sys.argv)
 		QWebPage.__init__(self)
 		self.loadFinished.connect(self.on_page_load)
+		print("Loading")
 		self.mainFrame().load(QUrl(url))
-
+		print("Executing")
+		self.app.exec_()
+		print("Executed")
 	def on_page_load(self):
+		print("Quitting")
 		self.app.quit()
+
 
 keyword = input("Enter Stock: ")
 source = requests.get('https://au.finance.yahoo.com/lookup?s=' + keyword).text
@@ -85,12 +93,13 @@ print(f"Stock Link: {stock_link}")
 #####################
 
 run = True
-os.system('cls')
+# os.system('cls')
 while run:
 	# stock_source = requests.get(stock_link).text
 	client_response = Client(stock_link)
+	print("parsing to html")
 	stock_source = client_response.mainFrame().toHtml()
-
+	print("parsed")
 	source_soup = soup(stock_source, 'lxml')
 
 	try:
@@ -108,13 +117,16 @@ while run:
 		
 	try:
 		price_search = source_soup.findAll("div", {"id":"quote-header-info"})
-		price_result = price_search[0]					
-		price = price_result.findAll("span")[1].text.strip()
+		print(f"{price_search}\nend")
+		price_result = price_search[0]
+		# print("result")
+		# print(price_result)					
+		price = price_result.findAll("span")[3].text.strip()
 	except Exception as e:							  
 		price = "(Updating...)"
 
 	try: 				
-		gain = price_result.findAll("span")[2].text.strip()
+		gain = price_result.findAll("span")[4].text.strip()
 	except Exception as e:
 		gain = "(Updating...)"
 
@@ -124,7 +136,7 @@ while run:
 	except Exception as e:
 		market_notice = "(Updating)"
 
-	os.system('cls')
+	# os.system('cls')
 
 	try:
 		print("----------------------------------------------\n")
@@ -135,3 +147,7 @@ while run:
 		print("----------------------------------------------\n")
 	except Exception as e:
 		("Reconnecting... ")
+	
+	os.system('clear')
+	
+	# time.sleep(2)

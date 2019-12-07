@@ -10,6 +10,54 @@ except Exception as e:
 	os.system('clear')
 else:
 	pass
+
+print(f"""                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %           =?000?                    
+                      ?0%0?           %         %&0?====                    
+                   =&%?=  ?%%   = = &0@%0==    &0                           
+                            =&??#%@@#####@@@%?&?                            
+                             0################0     =?0?=                   
+                             %################@&  0&0?=?0%%?                
+                     ===   %@##################@@&?        ?=               
+                  =&%0??00%#######&%&##@%%@######%                          
+                 0&       ?@####@=   0&    &#####%=                         
+                0%        %@####&  ##?0@#? ?#####&%%0?                      
+                ?        ?%######= ?0%@?0  &####@%   ?&=                    
+                       =&0?%######&&@###&&#######&    ?@                    
+                       @=  @@##################@%=     &0                   
+                      00    ?&################@0       =@                   
+                      @     &%&#############@&&%        0                   
+                     ?&    &? =?&@&&#####@&@?  0&                           
+                      =   ?%       ===00@0 ?    &=                          
+                          ?&                    00                          
+                           =                     ?                          
+                                                                                                         
+                                              
+          			Quik Stats Iowa Web Crawler        
+				By Syeam Bin Abdullah                                                                                                                                                                                                                              
+                                                                                                                                            """)
+input("""		--------- Press Any Key to Initiate Data Extraction -------												  """)
+
+try:
+	os.system('cls')
+except Exception as e:
+	os.system('clear')
+else:
+	pass
+
 #########
 ##TEAMS##
 #########
@@ -105,7 +153,7 @@ tableColumnsFile.write(str(table_columns))
 
 
 ###########################
-### INDIVIDUAL PLAYERS ####
+### INDIVIDUAL PLAYERS ####m
 ###########################
 
 print('		---RUNNING INITIALIZATION FOR PLAYER DATA EXTRACTION---		')
@@ -255,7 +303,10 @@ for player in range(athlete_num, len(single_columns)):
 
 s.close()
 
+print(f"\n\Single Best Game data successfully extracted to: {singleFile}\n\n")
 
+#Team Game Hsistory
+print('		---RUNNING INITIALIZATION FOR TEAM GAME SCHEDULE DATA EXTRACTION---		')
 link_num = 0 
 for team_link in range(link_num, len(team_links)):
 	print(f"Job: {link_num}/{len(team_links)}")
@@ -270,7 +321,7 @@ for team_link in range(link_num, len(team_links)):
 	table_title = table_titles[0].text
 	print(f"Found Team Name: {table_title}")
 	
-	print("Gathering Info")
+	print("Gathering Info") 
 	game_container = game_soup.findAll("div", {"class":"container"})[0]
 	game_containerFile = open("container.txt", "w+")
 	game_containerFile.write(str(container.prettify()))
@@ -318,7 +369,7 @@ for team_link in range(link_num, len(team_links)):
 		
 		g.write(f"{team_status}, {date}, {location}, {opponent}, {outcome}, {score}\n")
 		row_num += 1
-
+	g.write(f"Team Page: {team_link}")
 	print("Close\n")
 	g.close()
 	link_num += 1
@@ -328,10 +379,51 @@ for team_link in range(link_num, len(team_links)):
 		os.system('clear')
 	else:
 		pass
-
-print(team_links)
+print("""                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %                                     
+                                      %           =?000?                    
+                      ?0%0?           %         %&0?====                    
+                   =&%?=  ?%%   = = &0@%0==    &0                           
+                            =&??#%@@#####@@@%?&?                            
+                             0################0     =?0?=                   
+                             %################@&  0&0?=?0%%?                
+                     ===   %@##################@@&?        ?=               
+                  =&%0??00%#######&%&##@%%@######%                          
+                 0&       ?@####@=   0&    &#####%=                         
+                0%        %@####&  ##?0@#? ?#####&%%0?                      
+                ?        ?%######= ?0%@?0  &####@%   ?&=                    
+                       =&0?%######&&@###&&#######&    ?@                    
+                       @=  @@##################@%=     &0                   
+                      00    ?&################@0       =@                   
+                      @     &%&#############@&&%        0                   
+                     ?&    &? =?&@&&#####@&@?  0&                           
+                      =   ?%       ===00@0 ?    &=                          
+                          ?&                    00                          
+                           =                     ?                          
+                                                                             
+""")
 
 print('		---------- DATA EXTRACTION COMPLETE ----------		\n')
+
+print("-----------------------------------------------------------------")
+print(f"Team Season Stats saved to: {teamFile}")
+print(f"Individual Season Stats saved to: {playerFile}")
+print(f"Best Single Game stats saved to: {singleFile}")
+print(f"Team Game Schedule saved to the game_stats folder")
+print("-----------------------------------------------------------------")
+
 
 # try:
 # 	print("		---------- OPENING CSV DATA FILES ----------		")

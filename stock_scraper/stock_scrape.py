@@ -2,7 +2,9 @@ import requests
 import bs4
 from bs4 import BeautifulSoup as soup 
 import os
+import time 
 
+os.system('cls')
 ###################
 ###	STOCK QUERY ###
 ###################
@@ -55,7 +57,6 @@ for column in range(stock_num, len(columns)):
 	exchange = column.findAll("td", {"class":"data-col5 Ta(start) Pstart(20px) Pend(6px) W(30px)"})[0].text.strip()
 	print(f'Exchange: {exchange}')
 	print('---------------------------------------------------')
-	
 	stock_num += 1 
 
 stock_selection = input("Enter Stock #: ")
@@ -69,6 +70,7 @@ print(f"Stock Link: {stock_link}")
 
 run = True
 os.system('cls')
+refresh = 0
 while run:
 	stock_source = requests.get(stock_link).text
 	source_soup = soup(stock_source, 'lxml')
@@ -105,13 +107,14 @@ while run:
 		market_notice = "(Updating)"
 
 	os.system('cls')
-
+	refresh += 1
 	try:
 		print("----------------------------------------------\n")
 		print(name)
 		print(caption+"\n")
 		print(f"Current Price: {price}	{gain}\n")
 		print(market_notice)
+		print(refresh)
 		print("----------------------------------------------\n")
 	except Exception as e:
 		("Reconnecting... ")
